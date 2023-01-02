@@ -8,7 +8,7 @@ let controlRoom = undefined
 let roomNotReached = true
 let returnPath = []
 let q = []
-// Neighbours directions
+// directions
 const dx = [1, 0, -1, 0]
 const dy = [0, 1, 0, -1]
 
